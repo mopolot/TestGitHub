@@ -1,2 +1,2 @@
 # TestGitHub
-Getting started with GitHub
+Test GitHub is a repository for showing how to interact with the created repository.
